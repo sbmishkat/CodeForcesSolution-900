@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class GravityFlip {
+public class Gravity_Flip {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -9,8 +9,8 @@ public class GravityFlip {
             arr[i] = sc.nextInt();
         }
         Arrays.sort(arr);
-        for(int i:arr){
-            System.out.print(i+" ");
+        for (int i : arr) {
+            System.out.print(i + " ");
         }
         sc.close();
     }

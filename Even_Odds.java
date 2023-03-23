@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class EvenOdds {
+public class Even_Odds {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextLong();

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class KefaAndFirstSteps {
+public class Kefa_And_First_Steps {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int count = 1, max = 1, n = sc.nextInt();
